@@ -1,5 +1,3 @@
-# java-multithreading-file-handling-practicals
-
 
 # Java Multithreading and File Handling Practicals
 
